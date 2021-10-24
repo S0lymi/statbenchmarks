@@ -1,0 +1,3 @@
+
+
+gcc Utest.c -o Utest -ltestu01 -lprobdist -lmylib -lm
