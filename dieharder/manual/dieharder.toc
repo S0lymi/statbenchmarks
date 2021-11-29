@@ -1,0 +1,24 @@
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}
+\contentsline {chapter}{\numberline {2}Testing Random Number Generators}{15}{chapter.2}
+\contentsline {chapter}{\numberline {3}Evaluating $p$-values}{19}{chapter.3}
+\contentsline {section}{\numberline {3.1}Xtest -- A Single Expected Value}{19}{section.3.1}
+\contentsline {section}{\numberline {3.2}Vtest -- A Vector of Expected Values}{19}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Kolmogorov-Smirnov Test}{22}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}The Test Histogram}{22}{section.3.3}
+\contentsline {chapter}{\numberline {4}Diehard}{25}{chapter.4}
+\contentsline {section}{\numberline {4.1}The Original Diehard}{25}{section.4.1}
+\contentsline {section}{\numberline {4.2}The Dieharder Modifications}{27}{section.4.2}
+\contentsline {chapter}{\numberline {5}Dieharder's Modular Test Structure}{29}{chapter.5}
+\contentsline {chapter}{\numberline {6}Dieharder Extensions}{33}{chapter.6}
+\contentsline {section}{\numberline {6.1}STS Tests}{36}{section.6.1}
+\contentsline {section}{\numberline {6.2}New Tests}{37}{section.6.2}
+\contentsline {section}{\numberline {6.3}Future (Proposed or Planned) Tests}{40}{section.6.3}
+\contentsline {chapter}{\numberline {7}Results for Selected Generators}{43}{chapter.7}
+\contentsline {subsection}{\numberline {7.0.1}A Good Generator: mt19937\_1999}{43}{subsection.7.0.1}
+\contentsline {subsection}{\numberline {7.0.2}Comments}{72}{subsection.7.0.2}
+\contentsline {section}{\numberline {7.1}A Bad Generator: randu}{75}{section.7.1}
+\contentsline {section}{\numberline {7.2}An Ugly Generator: slatec}{101}{section.7.2}
+\contentsline {chapter}{\numberline {8}Conclusions}{127}{chapter.8}
+\contentsline {chapter}{\numberline {A}License Terms}{129}{appendix.A}
+\contentsline {section}{\numberline {A.1}General Terms}{129}{section.A.1}
+\contentsline {section}{\numberline {A.2}OPEN PUBLICATION LICENSE Draft v0.4, 8 June 1999}{129}{section.A.2}
